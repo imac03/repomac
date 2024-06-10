@@ -1,5 +1,3 @@
 # repomac
 
-hola verano 
-
-ya se udo jaja
+hola mundo 
